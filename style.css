@@ -1,6 +1,7 @@
 .container {
 	font-family: Arial, sans-serif; 
 	color: #fffacc;
+	font-size: 100%;
 	background-image: url("Home.jpg"); 
 	background-position: center center; 
 	background-repeat: no-repeat; 
