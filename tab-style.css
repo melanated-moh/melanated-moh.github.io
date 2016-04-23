@@ -1,4 +1,64 @@
-.tabs {
-	font-size: 75%;
-	line-height: 1.5em;
+.container{
+	width: 100%;
+	font-size: 125%;
 }
+
+#image {
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-image: url(Home.jpg);
+}
+
+.images #picture {
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    font: 0/0 serif;
+    text-shadow: none;
+    color: transparent;
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.images #picture .inner {
+    padding-top: 63.35%; 
+    display: block;
+    height: 0;
+}
+
+.tabs{
+	width: 100%;
+	font-size: 125%;
+}
+
+#other-image {
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	background-size: 100%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-image: url(Tabs.jpg);
+}
+
+.other-image #picture {
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    font: 0/0 serif;
+    text-shadow: none;
+    color: transparent;
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.other-image #picture .inner {
+    padding-top: 63.35%; 
+    display: block;
+    height: 0;
+}
+
