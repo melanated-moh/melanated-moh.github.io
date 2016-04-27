@@ -88,3 +88,6 @@ section{
 	font-style: normal;
 
 }
+a:visited {
+	text-decoration: none;
+	color: #fffacc;
