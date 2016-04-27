@@ -58,12 +58,12 @@ main{
 }
 
 footer ul{
-	list-style-type: none;
 	text-align: center;
 }
 
 footer ul li{
 	display: inline-block;
+	margin-left: 0.5em;
 	font-size: 15px;
 	color: #fffacc;
 }
@@ -84,4 +84,7 @@ header{
 
 section{
 	padding: 0 5%;
+	font-family: 'Merienda One';
+	font-style: normal;
+
 }
